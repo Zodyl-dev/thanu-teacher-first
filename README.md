@@ -6,6 +6,8 @@ first
 
 ## รายชื่อนร. ปวช. it
 
+ประสิทธิ์  (ไมค์) ปวช.2 it
+
 thanapat(dodo)
 
 มิลธาดา (อาร์ม) ปวช.2 it
@@ -19,5 +21,6 @@ Eakmon(eak). ปวช2. it
 ธนู(เฟิร์ส)
 
 Arnon(max)
+
 
 anon(le)
